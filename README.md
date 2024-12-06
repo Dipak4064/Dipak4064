@@ -2,7 +2,6 @@ Hi there 👋I am an undergraduate student from Nepalaya College of Nepal. I am 
 
 
 
-Here are some ideas to get you started:
-
+progress:
 - 🔭 I’m currently working on full stack devlopment
 - 🌱 I’m currently learning DSA
