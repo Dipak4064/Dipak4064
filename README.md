@@ -1,4 +1,4 @@
-Hi there 👋I am an undergraduate student from Nepalaya College of Nepal. I am studying for a bachelor's in computer application. I like coding.
+Hi there 👋I am an undergraduate student from Nepalaya College of Nepal. I am studying for a bachelor's in computer application.
 
 
 
